@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<breakfast>
+    <food>
+        <name>Cereal</name>
+        <price>1.99</price>
+        <calories>500</calories>
+        <healthy>true</healthy>
+    </food>
+    <food>
+        <name>Fruit</name>
+        <price>2.5</price>
+        <calories>250</calories>
+        <healthy>false</healthy>
+    </food>
+</breakfast>
