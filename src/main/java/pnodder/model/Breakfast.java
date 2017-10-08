@@ -9,11 +9,11 @@ public class Breakfast {
 
     private Set<Food> foods;
 
-    @XmlElement(name = "food")
     public Set<Food> getFoods() {
         return foods;
     }
 
+    @XmlElement(name = "food")
     public void setFoods(Set<Food> foods) {
         this.foods = foods;
     }
